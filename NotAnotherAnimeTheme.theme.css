@@ -21,7 +21,7 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://i.imgur.com/j1Z6HVc.jpg);
+  --theme-background-image: url(https://pbs.twimg.com/media/EphGC7vU0AYuK3z?format=png&name=900x900);
 
   /*
     Main Theme Color
@@ -36,7 +36,7 @@
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://i.imgur.com/63g6Em8.jpg);
+  --home-icon-image: url(https://cdn.discordapp.com/attachments/730957047201267943/870180500415869018/Screenshot_1.png);
 
   /*
     Change your friends icon image position
@@ -50,12 +50,12 @@
 
   /*
     Server Listing Width
-    Single Column:  62px
+    Single Column:  72px
     Double Column:  126px
     Triple Column:  184px
     Quad Column:    242px
   */
-  --server-listing-width: 126px;
+  --server-listing-width: 72px;
 
   /*
     Font Size
@@ -78,7 +78,7 @@
     Change the unread server animation.
     Replace it with "none" in order to remove any animations and use the main color instead
   */
-  --unread-server-animation: rainbow;
+  --unread-server-animation: none;
 
   /*
     Video / Screen share buttons
